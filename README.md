@@ -1,1 +1,1 @@
-# Edici-n-Autom-tica---Python
+# Edición Automática Python
